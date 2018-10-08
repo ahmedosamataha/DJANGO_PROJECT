@@ -1,0 +1,16 @@
+body{
+  background: #0f121f;
+  background-image:url(stars.jpeg);
+  
+  color:#fff
+}
+body*{font-family: ubuntu;}
+h1,h2,h3,h4,h5{
+  font-weight: normal;
+  margin:0
+}
+a,a:hover,a:visited{
+  color: #fff;
+  text-decoration:none;
+}
+p{font-size: normal;color: red}
